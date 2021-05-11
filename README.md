@@ -8,6 +8,6 @@ Bluetooth RC car, Google Speech API, Arduino
 
 ### 자료가 모두 날라감
 
-![image](https://user-images.githubusercontent.com/34766471/117859118-91d8b080-b2c9-11eb-8f1f-dfd2a98111d9.png)
+![hackathon_2015_20155159](https://user-images.githubusercontent.com/34766471/117859163-9ef59f80-b2c9-11eb-9371-7debcf97d09e.jpg)
 
 ![2015 해커톤 팜플렛](https://user-images.githubusercontent.com/34766471/117859128-956c3780-b2c9-11eb-9925-ac03ce66a066.jpg)
